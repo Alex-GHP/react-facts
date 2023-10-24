@@ -11,7 +11,7 @@ const Main = () => {
         <li>Was originally created by Jordan Walke</li>
         <li>Has well over 100K stars on GitHub</li>
         <li>Is maintained by Facebook</li>
-        <li>Powers thousands of enterprise apps, including mobile apps</li>
+        <li>Powers thousands of enterprise apps, including mobile apps!</li>
       </ul>
       <img
         className="w-[35rem] absolute -right-56 top-56 -z-20 opacity-10 grayscale"
